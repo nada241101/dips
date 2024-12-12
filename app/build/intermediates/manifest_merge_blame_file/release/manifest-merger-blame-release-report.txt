@@ -1,0 +1,129 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.WhiskerBites"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:6:5-67
+11-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:6:22-64
+12
+13    <application
+13-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:8:5-64:19
+14        android:allowBackup="true"
+14-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.3.1] C:\Users\Abdo\.gradle\caches\transforms-3\6eea6f9af2424c7ac49c133608fd1f6a\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+16        android:extractNativeLibs="false"
+17        android:icon="@mipmap/ic_launcher"
+17-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:13:9-35
+21        android:theme="@style/Theme.FoodOrderApp" >
+21-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:14:9-50
+22        <activity
+22-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:15:9-21:20
+23            android:name="com.android.foodorderapp.AccountActivity"
+23-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:16:13-44
+24            android:exported="true" >
+24-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:17:13-36
+25            <meta-data
+25-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:18:13-20:36
+26                android:name="android.app.lib_name"
+26-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:19:17-52
+27                android:value="" />
+27-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:20:17-33
+28        </activity>
+29        <activity
+29-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:22:9-29:20
+30            android:name="com.android.foodorderapp.DBHelper"
+30-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:23:13-37
+31            android:exported="false" >
+31-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:24:13-37
+32            <meta-data
+32-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:18:13-20:36
+33                android:name="android.app.lib_name"
+33-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:19:17-52
+34                android:value="" />
+34-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:20:17-33
+35        </activity>
+36        <activity
+36-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:30:9-36:20
+37            android:name="com.android.foodorderapp.RegisterActivity"
+37-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:31:13-45
+38            android:exported="false" >
+38-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:32:13-37
+39            <meta-data
+39-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:18:13-20:36
+40                android:name="android.app.lib_name"
+40-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:19:17-52
+41                android:value="" />
+41-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:20:17-33
+42        </activity>
+43        <activity
+43-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:37:9-43:20
+44            android:name="com.android.foodorderapp.LoginActivity"
+44-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:38:13-42
+45            android:exported="false" >
+45-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:39:13-37
+46            <meta-data
+46-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:18:13-20:36
+47                android:name="android.app.lib_name"
+47-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:19:17-52
+48                android:value="" />
+48-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:20:17-33
+49        </activity>
+50        <activity
+50-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:44:9-46:40
+51            android:name="com.android.foodorderapp.OrderSucceessActivity"
+51-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:45:13-50
+52            android:exported="false" />
+52-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:46:13-37
+53        <activity
+53-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:47:9-49:40
+54            android:name="com.android.foodorderapp.PlaceYourOrderActivity"
+54-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:48:13-51
+55            android:exported="false" />
+55-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:49:13-37
+56        <activity
+56-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:50:9-52:40
+57            android:name="com.android.foodorderapp.RestaurantMenuActivity"
+57-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:51:13-51
+58            android:exported="false" />
+58-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:52:13-37
+59        <activity
+59-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:53:9-60:20
+60            android:name="com.android.foodorderapp.SplashActivity"
+60-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:54:13-43
+61            android:exported="true" >
+61-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:55:13-36
+62            <intent-filter>
+62-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:56:13-59:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:57:17-69
+63-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:57:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:58:17-77
+65-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:58:27-74
+66            </intent-filter>
+67        </activity>
+68        <activity
+68-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:61:9-63:40
+69            android:name="com.android.foodorderapp.MainActivity"
+69-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:62:13-41
+70            android:exported="false" />
+70-->F:\WORK\githubRepos\WhiskerBites\app\src\main\AndroidManifest.xml:63:13-37
+71    </application>
+72
+73</manifest>

@@ -1,0 +1,237 @@
+[
+  {
+    "name":"Cheezious",
+    "address":"I8 Markaz, Islamabad",
+    "delivery_charge": 5,
+    "image":"https://em-cdn.eatmubarak.pk/54946/logo/1649325481.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Stuff Crust Pizza",
+        "price": 1500.0,
+        "url": "https://em-cdn.eatmubarak.pk/restaurant_new/54946/54946/dish/16129654997952468.jpg"
+      },
+      {
+        "name": "Crown Crust Pizza",
+        "price": 1100.0,
+        "url": "https://em-cdn.eatmubarak.pk/54946/dish_image/1715354525.jpg"
+      },
+      {
+        "name": "Behari kebab pizza",
+        "price": 1400.0,
+        "url": "https://em-cdn.eatmubarak.pk/restaurant_new/54946/54946/dish/16129648331142483410.jpg"
+      },
+      {
+        "name": "Cheezious Special Pizza",
+        "price": 1450.0,
+        "url": "https://em-cdn.eatmubarak.pk/restaurant_new/54946/54946/dish/161288351560704272.jpg"
+      },
+      {
+        "name": "CHICKEN Extreme Pizza",
+        "price": 1450.0,
+        "url": "https://em-cdn.eatmubarak.pk/restaurant_new///dish/16027866211808193155.jpg"
+      },
+      {
+        "name": "Special Roasted Platter",
+        "price": 1080.0,
+        "url": "https://em-cdn.eatmubarak.pk/54946/dish_image/1628885597.jpg"
+      },
+      {
+        "name": "Bazinga Supreme",
+        "price": 730.0,
+        "url": "https://em-cdn.eatmubarak.pk/54946/dish_image/1628885791.png"
+      },
+      {
+        "name": "Bazinga Burger",
+        "price": 530.0,
+        "url": "https://em-cdn.eatmubarak.pk/restaurant_new///dish/16044237981879245680.png"
+      },
+      {
+        "name": "Reggy Burger",
+        "price": 390.0,
+        "url": "https://em-cdn.eatmubarak.pk/restaurant_new///dish/16044237781581702297.png"
+      },
+      {
+        "name": "Fettuccine Alfredo ",
+        "price": 950.0,
+        "url": "https://em-cdn.eatmubarak.pk/54946/dish_image/1629619743.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Ranchers",
+    "address":"Saddar Rawalpindi",
+    "delivery_charge": 4,
+    "image":"https://rancherscafe.com/wp-content/uploads/2021/09/Rectangle-25-1.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "RANCHERONIII",
+        "price": 799.0,
+        "url": "https://rancherscafe.com/wp-content/uploads/2024/04/Ranchooni-800x800.png"
+      },
+      {
+        "name": "CHEE HAWW",
+        "price": 799.0,
+        "url": "https://rancherscafe.com/wp-content/uploads/2022/01/Cheehaww-beef-800x800.png"
+      },
+      {
+        "name": "MIHGHTY RODEO ",
+        "price": 799.0,
+        "url": "https://rancherscafe.com/wp-content/uploads/2022/01/Rodeo-Beef-1-1-800x800.webp"
+      },
+      {
+        "name": "BUTCHER",
+        "price": 699.0,
+        "url": "https://rancherscafe.com/wp-content/uploads/2022/01/Butcher-1-800x800.png"
+      },
+      {
+        "name": "TEXAS JACK",
+        "price": 600.0,
+        "url": "https://rancherscafe.com/wp-content/uploads/2022/01/Texas-Jack.png"
+      },
+      {
+        "name": "BEEF STEAK",
+        "price": 575.0,
+        "url": "https://rancherscafe.com/wp-content/uploads/2022/01/Beef-Steak-1-800x800.png"
+      },
+      {
+        "name": "BRONCO BURGER",
+        "price": 499.0,
+        "url": "https://rancherscafe.com/wp-content/uploads/2022/01/bronco-800x800.png"
+      },
+      {
+        "name": "BIG BEN",
+        "price": 725.0,
+        "url": "https://rancherscafe.com/wp-content/uploads/2022/01/Big-ben-1-800x800.png"
+      },
+      {
+        "name": "COWBOY",
+        "price": 525.0,
+        "url": "https://rancherscafe.com/wp-content/uploads/2022/01/Cowboy-burger-2-800x800.png"
+      },
+      {
+        "name": "MIGHTY RODEO ",
+        "price": 799.0,
+        "url": "https://rancherscafe.com/wp-content/uploads/2022/01/Mighty-Rodeo-Chicken-1-1-800x800.webp"
+      },
+      {
+        "name": "CRONCO BURGER",
+        "price":499.0,
+        "url": "https://rancherscafe.com/wp-content/uploads/2022/01/cronco-800x800.png"
+      }
+    ]
+  },
+  {
+    "name":"Broadway Pizza",
+    "address":"Gulberg Greens, Islamabad",
+    "delivery_charge": 5,
+    "image":"https://www.broadwaypizza.com.pk/assets/broadwayPizzaLogo.png",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chicken Surprize",
+        "price": 469.0,
+        "url": "https://w7.pngwing.com/pngs/526/624/png-transparent-california-style-pizza-sicilian-pizza-pizza-margherita-italian-cuisine-pizza.png"
+      },
+      {
+        "name": "Jamaicam BBQ",
+        "price":469.0 ,
+        "url": "https://w7.pngwing.com/pngs/88/578/png-transparent-sicilian-pizza-california-style-pizza-pizza-quattro-stagioni-quiche-pizza-food-recipe-cheese.png"
+      },
+      {
+        "name": "Chicago Bold Fold",
+        "price": 469.0,
+        "url": "https://w7.pngwing.com/pngs/445/888/png-transparent-pizza-delivery-ham-sushi-mozzarella-pizza-food-recipe-cheese.png"
+      },
+      {
+        "name": "Phantom",
+        "price": 328.0,
+        "url": "https://w7.pngwing.com/pngs/56/985/png-transparent-pizza-margherita-sushi-pizza-pizza-delivery-pizza.png"
+      },
+      {
+        "name": "Dancing Fajita",
+        "price": 469.0,
+        "url": "https://w7.pngwing.com/pngs/831/429/png-transparent-pepperoni-pizza-pizza-delivery-barbecue-grill-italian-cuisine-barbecue-sauce-pizza-food-recipe-cheese.png"
+      },
+      {
+        "name": "tarzan Tikka",
+        "price": 328.0,
+        "url": "https://w7.pngwing.com/pngs/445/888/png-transparent-pizza-delivery-ham-sushi-mozzarella-pizza-food-recipe-cheese.png"
+      }
+    ]
+  },
+  {
+    "name":"Savour Foods",
+    "address":"G-10, Islamabad",
+    "delivery_charge": 6,
+    "image":"https://d2sz1kgdtrlf1n.cloudfront.net/task_images/gpPP1706893227592-vlQV1698612918206Logo2020Copy.png",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Single Pulao",
+        "price":485.0,
+        "url": "https://d2sz1kgdtrlf1n.cloudfront.net/task_images/jgRZ1697203303320-800x800whiteBG41.jpg"
+      },
+      {
+        "name": " Pulao & Kebab",
+        "price": 400.0,
+        "url": "https://d2sz1kgdtrlf1n.cloudfront.net/task_images/GvkI1697203342230-800x80018.jpg"
+      },
+      {
+        "name": "Special Pulao",
+        "price": 650.0,
+        "url": "https://d2sz1kgdtrlf1n.cloudfront.net/task_images/84iJ1697203473203-800x800whiteBG45.jpg"
+      },
+      {
+        "name": "Krispo Burger",
+        "price": 450.0,
+        "url": "https://d2sz1kgdtrlf1n.cloudfront.net/task_images/iFLu1697203682449-800x800whiteBG6.jpg"
+      },
+      {
+        "name": "Krispo Burger Fries",
+        "price": 615.0,
+        "url": "https://d2sz1kgdtrlf1n.cloudfront.net/task_images/x6Fp1697203676866-800x800whiteBG39.jpg"
+      },
+      {
+        "name": "Chicken Burger",
+        "price": 380.0,
+        "url": "https://d2sz1kgdtrlf1n.cloudfront.net/task_images/c7US1697203712049-800x800whiteBG5.jpg"
+      }
+    ]
+  }
+]

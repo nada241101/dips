@@ -1,0 +1,4 @@
+#Mon Dec 09 21:25:54 EET 2024
+base.0=F\:\\WORK\\githubRepos\\WhiskerBites\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
